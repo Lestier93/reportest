@@ -480,13 +480,6 @@
 						<Opcion PLU="49234" Descripcion="Snickers" />
 		    		</Opciones>
 		    	</Productos>
-                <Productos Habilitado="1" PLU="43401" FechaInicial="20180701" FechaFinal="20180731" Pantalla="616" Boton="24" Descripcion="4 Hamb\Clasic\2PapMd" Elegir="4" ><!--Promo APP Julio 2018-->
-		    	 <Opciones>
-					 <Opcion PLU="43402" Descripcion="APP BigMac" />
-					 <Opcion PLU="43403" Descripcion="APP CuarLibra" />
-					 <Opcion PLU="43404" Descripcion="APP McNifica" />
-		    	 </Opciones>
-		    	 </Productos>
                 <Productos Habilitado="1" PLU="43409" FechaInicial="20180201" FechaFinal="20180228" Pantalla="616" Boton="34" Descripcion="2 Hmb\Clasi 2\SndCho" Elegir="2" ><!--Promo APP Febrero 2018-->
 		    		<Opciones>
 					    <Opcion PLU="43410" Descripcion="BigMac" />
